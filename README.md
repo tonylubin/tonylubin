@@ -23,32 +23,9 @@ I'm Anthony, a junior software developer based in London, UK.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px"/> &nbsp;                                               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" height="40px"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" height="40px"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40px" height="40px"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40px" height="40px"/> &nbsp;          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40px" height="40px"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40px" height="40px"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40px" height="40px"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" height="40px"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40px" height="40px"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40px" height="40px"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px" height="40px"/> &nbsp;
-</div>  
-           
-            
-                  
 
-            
-          
-       
-          
-            
-          
-            
-          
-          
-          
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,express,firebase,mongodb,git,github,vscode,figma)](https://skillicons.dev)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonylubin&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
