@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there 👋 fellow coders...
-<br>
+### Hello there 👋 fellow coders...<br><br>
 I'm Anthony, a junior software developer based in London, UK.
 
 👨‍💻 I have recently completed a software development course with _nology.io, learning to build/code things for the web - Front End & Back End.
  
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
