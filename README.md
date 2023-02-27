@@ -25,7 +25,7 @@ I'm Anthony, a junior software developer based in London, UK.
 #### Frontend
 - **HTML5:** semantic html & accessibilty best practices
 - **CSS3:** responsive design, Flexbox & CSS Grid, SASS, CSS modules and frameworks
-- **JAVASCRIPT:** ES6+, Asynchronous & functional programming, OOP(classes), RESTful API's, DOM manipulatio & JSON
+- **JAVASCRIPT:** ES6+, Asynchronous & functional programming, OOP(classes), RESTful API's, DOM manipulation & JSON
 - **REACT:** hooks, context & functional components
 
 #### Backend
