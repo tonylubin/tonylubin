@@ -23,15 +23,15 @@ I'm Anthony, a junior software developer based in London, UK.
 ### Technical Skills
 
 #### Frontend
-- HTML5: semantic html & accessibilty best practices
-- CSS3: responsive design, Flexbox & CSS Grid, SASS, CSS modules and frameworks
-- JAVASCRIPT: ES6+, Asynchronous & functional programming, OOP(classes), RESTful API's, DOM manipulatio & JSON
-- REACT: hooks, context & functional components
+- **HTML5:** semantic html & accessibilty best practices
+- **CSS3:** responsive design, Flexbox & CSS Grid, SASS, CSS modules and frameworks
+- **JAVASCRIPT:** ES6+, Asynchronous & functional programming, OOP(classes), RESTful API's, DOM manipulatio & JSON
+- **REACT:** hooks, context & functional components
 
 #### Backend
-- NODE.js: vanilla, Express, EJS
-- DATABASES: NoSQL -> MongoDB & Mongoose, Cloud Firestore
-- FIREBASE: hosting & authentication 
+- **NODE.JS:** vanilla, Express, EJS
+- **DATABASES:** NoSQL -> MongoDB & Mongoose, Cloud Firestore
+- **FIREBASE:** hosting & authentication 
 
 ### :hammer_and_wrench: Languages and Tools :
 
