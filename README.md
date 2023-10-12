@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hello there 👋 fellow coders...<br><br>
-I'm Anthony, a junior software developer based in London, UK.
+I'm Anthony, a junior fullstack software developer based in London, UK.
 
-👨‍💻 I have recently completed a software development training course with _nology.io, learning to build/code things for the web - Front End & Back End.
+👨‍💻 Completed a software development training course with _nology.io, learning to build/code things for the web - Front End & Back End.
  
 ---
 
@@ -29,13 +29,17 @@ I'm Anthony, a junior software developer based in London, UK.
 - **REACT:** hooks, context & functional components
 
 #### Backend
+- **NEXT JS:** fullstack apps
 - **NODE.JS:** vanilla, Express, EJS
-- **DATABASES:** NoSQL -> MongoDB & Mongoose, Cloud Firestore
-- **FIREBASE:** hosting & authentication 
+- **DATABASES:**
+  - NoSQL -> MongoDB & Mongoose, Cloud Firestore
+  - SQL -> Postgres
+- **FIREBASE:** hosting & authentication
+- **TESTING:** using Jest and 
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,express,firebase,mongodb,git,github,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nextjs,nodejs,express,firebase,mongodb,postgres,git,github,vscode,figma&perline=6)](https://skillicons.dev)
 
 ---
 
