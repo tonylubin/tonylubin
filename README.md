@@ -35,7 +35,7 @@ I'm Anthony, a junior fullstack software developer based in London, UK.
   - NoSQL -> MongoDB & Mongoose, Cloud Firestore
   - SQL -> Postgres
 - **FIREBASE:** hosting & authentication
-- **TESTING:** using Jest and 
+- **TESTING:** using Jest
 
 ### :hammer_and_wrench: Languages and Tools :
 
