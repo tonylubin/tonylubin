@@ -26,7 +26,7 @@ I'm Anthony, a junior fullstack software developer based in London, UK.
 
 #### Frontend
 - **HTML5:** semantic html & accessibilty best practices
-- **CSS3:** responsive design, Flexbox & CSS Grid, SASS, CSS modules and frameworks
+- **CSS3:** responsive design, Flexbox & CSS Grid, SASS, CSS modules, Tailwind, Bootstrap
 - **JAVASCRIPT:** ES6+, Asynchronous & functional programming, OOP(classes), RESTful API's, DOM manipulation & JSON
 - **REACT:** hooks, context & functional components
 
@@ -37,7 +37,7 @@ I'm Anthony, a junior fullstack software developer based in London, UK.
   - NoSQL -> MongoDB & Mongoose, Cloud Firestore
   - SQL -> Postgres
 - **FIREBASE:** hosting & authentication
-- **TESTING:** using Jest
+- **TESTING:** Jest, React Testing Library & Playwright
 
 ### :hammer_and_wrench: Languages and Tools :
 
