@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 ### Hello there 👋 fellow coders...<br><br>
 I'm Anthony, a junior fullstack software developer based in London, UK.
 
+Take a peek at my personal portfolio: https://anthonylubin-portfolio.web.app/
+
 👨‍💻 Completed a software development training course with _nology.io, learning to build/code things for the web - Front End & Back End.
  
 ---
